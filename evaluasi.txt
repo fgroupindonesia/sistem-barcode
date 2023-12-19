@@ -1,0 +1,20 @@
+System Check - Sistem Barcode :
+evaluasi 17 Desember 2023.
+
+System: Backup di github hubungkan laptop asus & lenovo ke akun github.
+Dashboard:
+
+
+DONE:
+- tampilan layout user admin dan user staff berbeda.
+- buat library untuk proteksi hak akses admin di page khusus admin
+- nav info (berita) belum diterapkan pada beberapa form (add/edit)
+- update latest Box (display card)
+- form sign up
+- link forgot password -> dilempar ke wa kendala hub admin
+- settings form dengan updating nya
+- navigasi info berita : sembunyikan yang tanggal nya belum sampe atau sudah lewat
+- perbaiki css tombol 'hubungi admin'
+- nomor display table urutkan dr 1 dst...
+- created at untuk 3 table ke bawah gunakan format Indonesia VV
+- barcode dengan library untuk generate gambar na
